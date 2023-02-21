@@ -14,13 +14,25 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+                             \\\\\\\
+                            \\\\\\\\\\\\
+                          \\\\\\\\\\\\\\\
+  -----------,-|           |C>   // )\\\\|
+           ,','|          /    || ,'/////|
+---------,','  |         (,    ||   /////
+         ||    |          \\  ||||//''''|
+         ||    |           |||||||     _|
+         ||    |______      `````\____/ \
+         ||    |     ,|         _/_____/ \
+         ||  ,'    ,' |        /          |
+         ||,'    ,'   |       |         \  |
+_________|/    ,'     |      /           | |
+_____________,'      ,',_____|      |    | |
+             |     ,','      |      |    | |
+             |   ,','    ____|_____/    /  |
+             | ,','  __/ |             /   |
+_____________|','   ///_/-------------/   |
+              |===========,'
+
 ![olishit's GitHub stats](https://github-readme-stats.vercel.app/api?username=all-smile&show_icons=true&theme=tokyonight)
-https://badgen.net/badge/:subject/:status/:color?icon=github
-                   ──┬──  ───┬───  ──┬───  ──┬── ────┬──────
-                     │       │       │       │       └─ Options (label, list, icon, color)
-                     │       │       │       │
-                     │      TEXT    TEXT    RGB / COLOR_NAME ( optional )
-                     │
-                  "badge" - default (static) badge generator
-                  
-eg: https://badgen.net/badge/Swift/4.2/orange
+
